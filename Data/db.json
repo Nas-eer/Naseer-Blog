@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Typescript is a supaset of javascript that adds static typing to the language essentially, it helps us catch errors earlier in the development process which can save us time and headaches down the road.",
+      "author": "Naseer",
+      "id": 1
+    },
+    {
+      "title": "Welcome to this amazing page",
+      "body": "Typescript is a supaset of javascript that adds static typing to the language essentially, it helps us catch errors earlier in the development process which can save us time and headaches down the road.",
+      "author": "Fatiu",
+      "id": 2
+    }
+  ]
+}
